@@ -1,16 +1,13 @@
-### Hi there 👋
+Tenho experiência de 10 anos na área de TI, formada em Sistema de informação e Especialista de banco de dados. Atuei ao longo da carreira como Suporte Técnico, Desenvolvedora Full Stack,  Analista de MIS, Analista Business Intelligence,Analista de Sistemas e engenheira de dados.
 
-<!--
-**LuanaDias/LuanaDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente presto serviços de consultorias em Business Intelligence/BI.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo em  projetos de BI onde realizo:
+- Modelagem de dados
+- Criação de Data Warehouse(DW)
+- ETL/ELT
+- Criação de dashboard(Tableau)
+- Ferramentas em cloud(AWS e Azure)
+- Data Lake
+- Construção de pipelines(Azure)
+- Experiência com Bancos Relacionais(SQLServer, MySQL, Oracle, PostgreeSQL)
