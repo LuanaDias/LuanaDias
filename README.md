@@ -1,13 +1,18 @@
-Tenho experiência de 10 anos na área de TI, formada em Sistema de informação e Especialista de banco de dados. Atuei ao longo da carreira como Suporte Técnico, Desenvolvedora Full Stack,  Analista de MIS, Analista Business Intelligence,Analista de Sistemas e engenheira de dados.
+## 👩‍💻 Sobre mim
 
-Atualmente presto serviços de consultorias em Business Intelligence/BI.
+Sou profissional de **Tecnologia da Informação** com **10 anos de experiência**, formada em **Sistemas de Informação** e **especialista em Banco de Dados**.
 
-Atuo em  projetos de BI onde realizo:
-- Modelagem de dados
-- Criação de Data Warehouse(DW)
-- ETL/ELT
-- Criação de dashboard(Tableau)
-- Ferramentas em cloud(AWS e Azure)
-- Data Lake
-- Construção de pipelines(Azure)
-- Experiência com Bancos Relacionais(SQLServer, MySQL, Oracle, PostgreeSQL)
+Ao longo da minha carreira, atuei em diferentes frentes, incluindo:
+
+- Suporte Técnico  
+- Desenvolvedora Full Stack  
+- Analista de MIS  
+- Analista de Business Intelligence (BI)  
+- Analista de Sistemas  
+- Engenheira de Dados  
+
+Atualmente, atuo como **consultora em Engenharia de Dados**, participando de projetos voltados a **arquitetura, integração, processamento e análise de dados**, com foco em soluções escaláveis e orientadas a dados.
+
+Acesse o [curriculo](https://github.com/LuanaDias/LuanaDias/blob/main/LUANAcurriculo.pdf).
+
+Projeto [AWS](https://medium.com/@luanadiasrodrigues/pipeline-de-dados-na-aws-integra%C3%A7%C3%A3o-e-processamento-em-camadas-com-s3-emr-e-airflow-60f18dca3e63)
