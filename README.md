@@ -36,9 +36,9 @@ Projeto desenvolvido em ambiente corporativo, no qual fui responsável pelo **de
 🔗 [Artigo no Medium](https://medium.com/@luanadiasrodrigues/pipeline-de-dados-na-aws-integra%C3%A7%C3%A3o-e-processamento-em-camadas-com-s3-emr-e-airflow-60f18dca3e63)
 
 - **Pipeline de Dados na AWS**
-Implementação de pipeline de dados corporativo utilizando AWS Glue, S3 e Redshift.
+Projeto desenvolvido em ambiente corporativo, no qual não fui responsável pelo desenho da arquitetura, mas atuei diretamente na implementação do pipeline de dados, utilizando AWS Glue, Amazon S3 e Amazon Redshift, com foco na ingestão, transformação e disponibilização de dados para consumo analítico.
 
-🔗 [Artigo técnico com a explicação da arquitetura e dos fluxos de dados](https://medium.com/@luanadiasrodrigues/implementa%C3%A7%C3%A3o-de-pipeline-de-dados-na-aws-do-postgresql-ao-power-bi-com-glue-e-redshift-23ca6376a150)
+🔗 [Artigo no Medium](https://medium.com/@luanadiasrodrigues/implementa%C3%A7%C3%A3o-de-pipeline-de-dados-na-aws-do-postgresql-ao-power-bi-com-glue-e-redshift-23ca6376a150)
 
 ### 🎓 Projetos de Cursos (Hands-on)
 
