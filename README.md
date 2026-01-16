@@ -1,6 +1,6 @@
 ## 👩‍💻 Sobre mim
 
-Sou profissional de **Tecnologia da Informação** com mais de **10 anos de experiência**, formada em **Sistemas de Informação** e **especialista em Banco de Dados**.
+Atuo há mais de 10 anos com dados, com formação em Sistemas de Informação e especialização em Banco de Dados.
 
 Ao longo da minha carreira, atuei em diferentes frentes, incluindo:
 
