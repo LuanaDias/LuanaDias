@@ -6,7 +6,6 @@ Ao longo da minha carreira, atuei em diferentes frentes, incluindo:
 
 - Suporte Técnico  
 - Desenvolvedora Full Stack  
-- Analista de MIS  
 - Analista de Business Intelligence (BI)  
 - Analista de Sistemas  
 - Engenheira de Dados  
