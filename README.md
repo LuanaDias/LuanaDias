@@ -13,6 +13,8 @@ Ao longo da minha carreira, atuei em diferentes frentes, incluindo:
 
 Atualmente, atuo como **consultora em Engenharia de Dados**, participando de projetos voltados a **arquitetura, integração, processamento e análise de dados**, com foco em soluções escaláveis e orientadas a dados.
 
+Possuo experiência em ambientes de nuvem como AWS e Azure, atuando atualmente com Azure e Databricks.
+
 ## 🏅 Certificações AWS
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/858febb0-ee0e-4ec1-a342-b108977d0c5c/linked_in_profile)
