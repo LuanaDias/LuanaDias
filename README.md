@@ -58,6 +58,8 @@ Esses projetos tiveram como objetivo:
 - Conceitos de segurança, custos e migração para cloud 
 
 **Projetos disponibilizados em artigos no Medium:**
+- [Deploy de uma aplicação Node.js na AWS utilizando Amazon ECS (EC2), Application Load Balancer e Pipeline CI/CD](https://medium.com/@luanadiasrodrigues/deploy-de-uma-aplica%C3%A7%C3%A3o-node-js-na-aws-com-ecs-e-ci-cd-e7af769263a6)
+
 - [Modernização de Aplicações com AWS ECS e Terraform](https://medium.com/@luanadiasrodrigues/moderniza%C3%A7%C3%A3o-de-aplica%C3%A7%C3%B5es-com-aws-ecs-c1444963f5eb)
 - [Implementação de Aplicação com Ansible e Terraform](https://medium.com/@luanadiasrodrigues/implementa%C3%A7%C3%A3o-de-aplica%C3%A7%C3%A3o-com-ansible-e-terraform-c98ffefbd562
 )
